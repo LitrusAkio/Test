@@ -8,6 +8,12 @@ $ git branch -a
 查看当前状态              <br/>
 $ git status
 
+切换分支  <br/>
+$ git checkout 分支名字
+
+创建分支  <br/>
+$ git branch 分支名字
+
 # 步骤
 1：先把项目clone到本地，在桌面用git base输入$git clone +项目的克隆ssh链接
 克隆到本地以后，要打开项目的文件夹，再在里面运行git base
