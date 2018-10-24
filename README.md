@@ -1,5 +1,5 @@
-#git的一些教程
-<a href="https://www.jianshu.com/p/6deca2cfc37a">Git前期配置的一些文章</a>
+#git的一些教程                                    <br/>
+<a href="https://www.jianshu.com/p/6deca2cfc37a">Git前期配置的一些文章</a>                   <br/>
 <a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000">廖雪峰的git教程</a>
 # 一些git的指令
 查看所有远程分支             <br/>
@@ -12,7 +12,9 @@ $ git branch -a
 然后我们添加了一个叫test的txt文档，内容是Hello World
 
 2： 在里面运行git base，输入$git add .            <br/>
-这行命令的意思是添加新的文件到暂存区，也可以指定文件名来添加
+这行命令的意思是添加新的文件到暂存区，也可以指定文件名来添加           <br/>
+添加指定文件的命令写法，可以多次添加，因为提交是一次性提交添加的内容<br/>
+git add readme.txt
 
 3：$ git commit -m "备注描述文字"              <br/>
 这行命令的意思是从暂存区提交到git管理区
