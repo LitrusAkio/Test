@@ -5,6 +5,8 @@
 查看所有远程分支             <br/>
 $ git branch -a
 
+查看当前状态              <br/>
+$ git status
 
 # 步骤
 1：先把项目clone到本地，在桌面用git base输入$git clone +项目的克隆ssh链接
