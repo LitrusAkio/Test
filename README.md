@@ -1,4 +1,6 @@
-# <a href="https://www.jianshu.com/p/6deca2cfc37a">Git前期配置的一些文章</a>
+#git的一些教程
+<a href="https://www.jianshu.com/p/6deca2cfc37a">Git前期配置的一些文章</a>
+<a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000">廖雪峰的git教程</a>
 # 一些git的指令
 查看所有远程分支             <br/>
 $ git branch -a
