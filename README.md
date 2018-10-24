@@ -20,6 +20,9 @@ $ git checkout -b 分支名字
 删除分支      <br/>
 $ git branch -d 分支名字
 
+合并指定的分支到当前分支         <br/>
+$ git merge 指定的分支名字
+
 # 步骤
 1：先把项目clone到本地，在桌面用git base输入$git clone +项目的克隆ssh链接
 克隆到本地以后，要打开项目的文件夹，再在里面运行git base
